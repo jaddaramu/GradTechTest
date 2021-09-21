@@ -2,6 +2,8 @@
 
 In this repository, you'll find a selection of sub-folders with language titles. In each, there's a test for that language, chose one for your submission.
 
+Unless otherwise specified, please pick a language you are not already farmiliar with.
+
 ## Clone this repository
 
 Use `git clone` to clone the repository locally, then change the remote, please do not fork this repository. To change the remote, use
